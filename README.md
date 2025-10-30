@@ -483,8 +483,8 @@ This project is open-source and available under the MIT License for educational 
 
 For questions, issues, or collaboration opportunities:
 - Open an issue on GitHub
-- Email: [your.email@example.com]
-- Discussion forum: [Link to discussions]
+- Email: [bavlygeorge713@gmail.com]
+
 
 ---
 
